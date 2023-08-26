@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img align="left" width="200" height="200" src="/assets/images/michael_perkins.jpg">
+<img src="/assets/images/michael_perkins.jpg" alt="Michael Perkins, Ph.D." width="150" height="150" style="float: left; margin: 0px 15px 15px 0px;">
 
 Michael Perkins is a technologist, philosopher, and musician with special interests in systems software development, discrete mathematics, data science, machine learning, poetry, and experimental music. He is a graduate of Georgia State University where he studied music and philosophy and The Ohio State University where he studied philosophy and computer science. He completed a Ph.D. in Philosophy at The Ohio State University in 1983.
 
